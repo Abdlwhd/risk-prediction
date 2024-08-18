@@ -6,12 +6,12 @@ Flask-RESTful
 gunicorn
 itsdangerous
 Jinja2
-joblib
 MarkupSafe
 numpy
 pytz
-scikit-learn
 scipy
 six
 threadpoolctl
 Werkzeug
+scikit-learn==1.0.2
+joblib==1.1.0
